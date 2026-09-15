@@ -1,0 +1,27 @@
+{
+	"version": "7",
+	"dialect": "postgresql",
+	"entries": [
+		{
+			"idx": 0,
+			"version": "7",
+			"when": 1789499042000,
+			"tag": "0000_awesome_kronos",
+			"breakpoints": true
+		},
+		{
+			"idx": 1,
+			"version": "7",
+			"when": 1789501231616,
+			"tag": "0001_heavy_mattie_franklin",
+			"breakpoints": true
+		},
+		{
+			"idx": 2,
+			"version": "7",
+			"when": 1789502135069,
+			"tag": "0002_seed-mint-treasury",
+			"breakpoints": true
+		}
+	]
+}
