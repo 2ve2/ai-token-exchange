@@ -1,0 +1,17 @@
+export const ERROR_MESSAGES = {
+	UNAUTHORIZED: "Unauthorized",
+	FORBIDDEN: "Forbidden",
+	INTERNAL_SERVER_ERROR: "Internal server error",
+	USER_NOT_FOUND: "User not found",
+	WALLET_NOT_FOUND: "Wallet not found",
+	INSUFFICIENT_BALANCE: "Insufficient balance",
+	INVALID_AMOUNT: "Amount must be positive",
+	RESOURCE_EXISTS: "Resource already exists",
+	REF_NOT_FOUND: "Referenced resource not found",
+	REQUIRED_FIELD: "Required field missing",
+	LISTING_NOT_FOUND: "Listing not found",
+	LISTING_NOT_AVAILABLE: "Listing is no longer available",
+	CANNOT_BUY_OWN: "Cannot buy your own listing",
+	NOT_OWN_LISTING: "You can only cancel your own listing",
+	INVALID_PRICE: "Price per token must be positive",
+};
