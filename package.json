@@ -1,0 +1,9 @@
+{
+  "name": "ai-token-exchange",
+  "type": "module",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
